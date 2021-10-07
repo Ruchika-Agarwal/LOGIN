@@ -1,2 +1,2 @@
 # LOGIN
-Simple Login , Registration using Django
+Simple Login , Registration using Django development
